@@ -12,6 +12,11 @@ struct BochechudoNano1App: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+                .task {
+                    for name in UIFont.familyNames {
+                        print(name)
+                    }
+                }
         }
     }
 }

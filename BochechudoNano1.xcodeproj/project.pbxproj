@@ -7,18 +7,75 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		563E83412A71D16B005B72B5 /* bochechudo2.riv in Resources */ = {isa = PBXBuildFile; fileRef = 563E83402A71D16B005B72B5 /* bochechudo2.riv */; };
+		563E83432A71DA7A005B72B5 /* bochechudo3.riv in Resources */ = {isa = PBXBuildFile; fileRef = 563E83422A71DA7A005B72B5 /* bochechudo3.riv */; };
+		563E83452A71EA58005B72B5 /* bochechudo4.riv in Resources */ = {isa = PBXBuildFile; fileRef = 563E83442A71EA58005B72B5 /* bochechudo4.riv */; };
+		563E83472A71F040005B72B5 /* bochechudo5.riv in Resources */ = {isa = PBXBuildFile; fileRef = 563E83462A71F040005B72B5 /* bochechudo5.riv */; };
+		563E83492A71F42E005B72B5 /* bochechudo13.riv in Resources */ = {isa = PBXBuildFile; fileRef = 563E83482A71F42E005B72B5 /* bochechudo13.riv */; };
+		563E834C2A728E50005B72B5 /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 563E834B2A728E50005B72B5 /* Model.swift */; };
+		563E834F2A729459005B72B5 /* CornerRadiusStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 563E834E2A729459005B72B5 /* CornerRadiusStyle.swift */; };
+		563E83512A7320DA005B72B5 /* bochechudo7.riv in Resources */ = {isa = PBXBuildFile; fileRef = 563E83502A7320DA005B72B5 /* bochechudo7.riv */; };
+		563E83532A7329E2005B72B5 /* bochechudo8.riv in Resources */ = {isa = PBXBuildFile; fileRef = 563E83522A7329E2005B72B5 /* bochechudo8.riv */; };
+		563E83552A733A45005B72B5 /* bochechudo9.riv in Resources */ = {isa = PBXBuildFile; fileRef = 563E83542A733A45005B72B5 /* bochechudo9.riv */; };
+		563E83572A734550005B72B5 /* bochechudo11.riv in Resources */ = {isa = PBXBuildFile; fileRef = 563E83562A73454F005B72B5 /* bochechudo11.riv */; };
+		563E83592A73490A005B72B5 /* bochechudo14.riv in Resources */ = {isa = PBXBuildFile; fileRef = 563E83582A73490A005B72B5 /* bochechudo14.riv */; };
+		563E835B2A741AC9005B72B5 /* star.riv in Resources */ = {isa = PBXBuildFile; fileRef = 563E835A2A741AC9005B72B5 /* star.riv */; };
+		563E835D2A7424EF005B72B5 /* ChoiceCardView2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 563E835C2A7424EF005B72B5 /* ChoiceCardView2.swift */; };
+		563E835F2A743FE9005B72B5 /* MenuView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 563E835E2A743FE9005B72B5 /* MenuView.swift */; };
+		563E83612A7577C3005B72B5 /* AppManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 563E83602A7577C3005B72B5 /* AppManager.swift */; };
+		563E83632A757AED005B72B5 /* Level.swift in Sources */ = {isa = PBXBuildFile; fileRef = 563E83622A757AED005B72B5 /* Level.swift */; };
 		56652F9A2A714DE400636C15 /* BochechudoNano1App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56652F992A714DE400636C15 /* BochechudoNano1App.swift */; };
 		56652F9C2A714DE400636C15 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56652F9B2A714DE400636C15 /* ContentView.swift */; };
 		56652F9E2A714DE600636C15 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 56652F9D2A714DE600636C15 /* Assets.xcassets */; };
 		56652FA12A714DE600636C15 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 56652FA02A714DE600636C15 /* Preview Assets.xcassets */; };
+		56652FAA2A71517D00636C15 /* ChoiceCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56652FA92A71517D00636C15 /* ChoiceCardView.swift */; };
+		56652FAE2A71598800636C15 /* Brice-SemiBoldExpanded.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 56652FAD2A71598800636C15 /* Brice-SemiBoldExpanded.ttf */; };
+		56652FB12A715AB200636C15 /* arpdisplay-80.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 56652FB02A715AB200636C15 /* arpdisplay-80.ttf */; };
+		56652FB52A71633700636C15 /* InstructionsCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56652FB42A71633700636C15 /* InstructionsCardView.swift */; };
+		56652FB72A71939200636C15 /* LevelView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56652FB62A71939200636C15 /* LevelView.swift */; };
+		566FA9042A71BAAF006D9901 /* bochechudo1.riv in Resources */ = {isa = PBXBuildFile; fileRef = 566FA9032A71BAAE006D9901 /* bochechudo1.riv */; };
+		56E971952A76B5DA00ADE9C7 /* TheEndView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56E971942A76B5DA00ADE9C7 /* TheEndView.swift */; };
+		56E971972A76EDAA00ADE9C7 /* MainButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56E971962A76EDAA00ADE9C7 /* MainButtonView.swift */; };
+		56E971992A76F49600ADE9C7 /* TopNavigationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56E971982A76F49600ADE9C7 /* TopNavigationView.swift */; };
+		B856976789E704FABAE158B6 /* Pods_BochechudoNano1.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3B287DCD0451286EDF19948A /* Pods_BochechudoNano1.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3B287DCD0451286EDF19948A /* Pods_BochechudoNano1.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_BochechudoNano1.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		563E83402A71D16B005B72B5 /* bochechudo2.riv */ = {isa = PBXFileReference; lastKnownFileType = file; path = bochechudo2.riv; sourceTree = "<group>"; };
+		563E83422A71DA7A005B72B5 /* bochechudo3.riv */ = {isa = PBXFileReference; lastKnownFileType = file; path = bochechudo3.riv; sourceTree = "<group>"; };
+		563E83442A71EA58005B72B5 /* bochechudo4.riv */ = {isa = PBXFileReference; lastKnownFileType = file; path = bochechudo4.riv; sourceTree = "<group>"; };
+		563E83462A71F040005B72B5 /* bochechudo5.riv */ = {isa = PBXFileReference; lastKnownFileType = file; path = bochechudo5.riv; sourceTree = "<group>"; };
+		563E83482A71F42E005B72B5 /* bochechudo13.riv */ = {isa = PBXFileReference; lastKnownFileType = file; path = bochechudo13.riv; sourceTree = "<group>"; };
+		563E834B2A728E50005B72B5 /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
+		563E834E2A729459005B72B5 /* CornerRadiusStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CornerRadiusStyle.swift; sourceTree = "<group>"; };
+		563E83502A7320DA005B72B5 /* bochechudo7.riv */ = {isa = PBXFileReference; lastKnownFileType = file; path = bochechudo7.riv; sourceTree = "<group>"; };
+		563E83522A7329E2005B72B5 /* bochechudo8.riv */ = {isa = PBXFileReference; lastKnownFileType = file; path = bochechudo8.riv; sourceTree = "<group>"; };
+		563E83542A733A45005B72B5 /* bochechudo9.riv */ = {isa = PBXFileReference; lastKnownFileType = file; path = bochechudo9.riv; sourceTree = "<group>"; };
+		563E83562A73454F005B72B5 /* bochechudo11.riv */ = {isa = PBXFileReference; lastKnownFileType = file; path = bochechudo11.riv; sourceTree = "<group>"; };
+		563E83582A73490A005B72B5 /* bochechudo14.riv */ = {isa = PBXFileReference; lastKnownFileType = file; path = bochechudo14.riv; sourceTree = "<group>"; };
+		563E835A2A741AC9005B72B5 /* star.riv */ = {isa = PBXFileReference; lastKnownFileType = file; path = star.riv; sourceTree = "<group>"; };
+		563E835C2A7424EF005B72B5 /* ChoiceCardView2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChoiceCardView2.swift; sourceTree = "<group>"; };
+		563E835E2A743FE9005B72B5 /* MenuView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuView.swift; sourceTree = "<group>"; };
+		563E83602A7577C3005B72B5 /* AppManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppManager.swift; sourceTree = "<group>"; };
+		563E83622A757AED005B72B5 /* Level.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Level.swift; sourceTree = "<group>"; };
 		56652F962A714DE400636C15 /* BochechudoNano1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BochechudoNano1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		56652F992A714DE400636C15 /* BochechudoNano1App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BochechudoNano1App.swift; sourceTree = "<group>"; };
 		56652F9B2A714DE400636C15 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		56652F9D2A714DE600636C15 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		56652FA02A714DE600636C15 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		56652FA92A71517D00636C15 /* ChoiceCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChoiceCardView.swift; sourceTree = "<group>"; };
+		56652FAD2A71598800636C15 /* Brice-SemiBoldExpanded.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Brice-SemiBoldExpanded.ttf"; sourceTree = "<group>"; };
+		56652FAF2A71599900636C15 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		56652FB02A715AB200636C15 /* arpdisplay-80.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "arpdisplay-80.ttf"; sourceTree = "<group>"; };
+		56652FB42A71633700636C15 /* InstructionsCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InstructionsCardView.swift; sourceTree = "<group>"; };
+		56652FB62A71939200636C15 /* LevelView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LevelView.swift; sourceTree = "<group>"; };
+		566FA9032A71BAAE006D9901 /* bochechudo1.riv */ = {isa = PBXFileReference; lastKnownFileType = file; path = bochechudo1.riv; sourceTree = "<group>"; };
+		56E971942A76B5DA00ADE9C7 /* TheEndView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TheEndView.swift; sourceTree = "<group>"; };
+		56E971962A76EDAA00ADE9C7 /* MainButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainButtonView.swift; sourceTree = "<group>"; };
+		56E971982A76F49600ADE9C7 /* TopNavigationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopNavigationView.swift; sourceTree = "<group>"; };
+		7749AB39CE9E008E56D01BF9 /* Pods-BochechudoNano1.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BochechudoNano1.debug.xcconfig"; path = "Target Support Files/Pods-BochechudoNano1/Pods-BochechudoNano1.debug.xcconfig"; sourceTree = "<group>"; };
+		FC84053CEF40F9D4A7BC51D8 /* Pods-BochechudoNano1.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BochechudoNano1.release.xcconfig"; path = "Target Support Files/Pods-BochechudoNano1/Pods-BochechudoNano1.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -26,17 +83,45 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B856976789E704FABAE158B6 /* Pods_BochechudoNano1.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		460771CD8AE0DE6402670D8D /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				3B287DCD0451286EDF19948A /* Pods_BochechudoNano1.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		563E834A2A728E2E005B72B5 /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				56652FAD2A71598800636C15 /* Brice-SemiBoldExpanded.ttf */,
+				56652FB02A715AB200636C15 /* arpdisplay-80.ttf */,
+			);
+			path = Fonts;
+			sourceTree = "<group>";
+		};
+		563E834D2A729447005B72B5 /* Helpers */ = {
+			isa = PBXGroup;
+			children = (
+				563E834E2A729459005B72B5 /* CornerRadiusStyle.swift */,
+			);
+			path = Helpers;
+			sourceTree = "<group>";
+		};
 		56652F8D2A714DE400636C15 = {
 			isa = PBXGroup;
 			children = (
 				56652F982A714DE400636C15 /* BochechudoNano1 */,
 				56652F972A714DE400636C15 /* Products */,
+				A0D347641F67BD2A8145B846 /* Pods */,
+				460771CD8AE0DE6402670D8D /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -51,10 +136,25 @@
 		56652F982A714DE400636C15 /* BochechudoNano1 */ = {
 			isa = PBXGroup;
 			children = (
+				563E834D2A729447005B72B5 /* Helpers */,
+				56652FAF2A71599900636C15 /* Info.plist */,
 				56652F992A714DE400636C15 /* BochechudoNano1App.swift */,
 				56652F9B2A714DE400636C15 /* ContentView.swift */,
 				56652F9D2A714DE600636C15 /* Assets.xcassets */,
+				563E834A2A728E2E005B72B5 /* Fonts */,
+				566FA9052A71BAB6006D9901 /* Rive */,
 				56652F9F2A714DE600636C15 /* Preview Content */,
+				563E834B2A728E50005B72B5 /* Model.swift */,
+				563E83602A7577C3005B72B5 /* AppManager.swift */,
+				563E83622A757AED005B72B5 /* Level.swift */,
+				56E971962A76EDAA00ADE9C7 /* MainButtonView.swift */,
+				56E971982A76F49600ADE9C7 /* TopNavigationView.swift */,
+				56652FA92A71517D00636C15 /* ChoiceCardView.swift */,
+				563E835C2A7424EF005B72B5 /* ChoiceCardView2.swift */,
+				56652FB42A71633700636C15 /* InstructionsCardView.swift */,
+				56652FB62A71939200636C15 /* LevelView.swift */,
+				563E835E2A743FE9005B72B5 /* MenuView.swift */,
+				56E971942A76B5DA00ADE9C7 /* TheEndView.swift */,
 			);
 			path = BochechudoNano1;
 			sourceTree = "<group>";
@@ -67,6 +167,34 @@
 			path = "Preview Content";
 			sourceTree = "<group>";
 		};
+		566FA9052A71BAB6006D9901 /* Rive */ = {
+			isa = PBXGroup;
+			children = (
+				566FA9032A71BAAE006D9901 /* bochechudo1.riv */,
+				563E83402A71D16B005B72B5 /* bochechudo2.riv */,
+				563E83422A71DA7A005B72B5 /* bochechudo3.riv */,
+				563E83442A71EA58005B72B5 /* bochechudo4.riv */,
+				563E83462A71F040005B72B5 /* bochechudo5.riv */,
+				563E83502A7320DA005B72B5 /* bochechudo7.riv */,
+				563E83522A7329E2005B72B5 /* bochechudo8.riv */,
+				563E83542A733A45005B72B5 /* bochechudo9.riv */,
+				563E83562A73454F005B72B5 /* bochechudo11.riv */,
+				563E83482A71F42E005B72B5 /* bochechudo13.riv */,
+				563E83582A73490A005B72B5 /* bochechudo14.riv */,
+				563E835A2A741AC9005B72B5 /* star.riv */,
+			);
+			path = Rive;
+			sourceTree = "<group>";
+		};
+		A0D347641F67BD2A8145B846 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				7749AB39CE9E008E56D01BF9 /* Pods-BochechudoNano1.debug.xcconfig */,
+				FC84053CEF40F9D4A7BC51D8 /* Pods-BochechudoNano1.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -74,9 +202,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 56652FA42A714DE600636C15 /* Build configuration list for PBXNativeTarget "BochechudoNano1" */;
 			buildPhases = (
+				D9B147B730E742689FD84887 /* [CP] Check Pods Manifest.lock */,
 				56652F922A714DE400636C15 /* Sources */,
 				56652F932A714DE400636C15 /* Frameworks */,
 				56652F942A714DE400636C15 /* Resources */,
+				3DCAE303AF0EEF79D8979C54 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -125,12 +255,68 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				563E83472A71F040005B72B5 /* bochechudo5.riv in Resources */,
+				563E835B2A741AC9005B72B5 /* star.riv in Resources */,
+				563E83412A71D16B005B72B5 /* bochechudo2.riv in Resources */,
+				56652FAE2A71598800636C15 /* Brice-SemiBoldExpanded.ttf in Resources */,
+				563E83432A71DA7A005B72B5 /* bochechudo3.riv in Resources */,
+				566FA9042A71BAAF006D9901 /* bochechudo1.riv in Resources */,
+				563E83552A733A45005B72B5 /* bochechudo9.riv in Resources */,
 				56652FA12A714DE600636C15 /* Preview Assets.xcassets in Resources */,
+				563E83532A7329E2005B72B5 /* bochechudo8.riv in Resources */,
 				56652F9E2A714DE600636C15 /* Assets.xcassets in Resources */,
+				563E83592A73490A005B72B5 /* bochechudo14.riv in Resources */,
+				563E83452A71EA58005B72B5 /* bochechudo4.riv in Resources */,
+				56652FB12A715AB200636C15 /* arpdisplay-80.ttf in Resources */,
+				563E83572A734550005B72B5 /* bochechudo11.riv in Resources */,
+				563E83492A71F42E005B72B5 /* bochechudo13.riv in Resources */,
+				563E83512A7320DA005B72B5 /* bochechudo7.riv in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		3DCAE303AF0EEF79D8979C54 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-BochechudoNano1/Pods-BochechudoNano1-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-BochechudoNano1/Pods-BochechudoNano1-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-BochechudoNano1/Pods-BochechudoNano1-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		D9B147B730E742689FD84887 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-BochechudoNano1-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		56652F922A714DE400636C15 /* Sources */ = {
@@ -138,7 +324,19 @@
 			buildActionMask = 2147483647;
 			files = (
 				56652F9C2A714DE400636C15 /* ContentView.swift in Sources */,
+				563E83612A7577C3005B72B5 /* AppManager.swift in Sources */,
+				56E971952A76B5DA00ADE9C7 /* TheEndView.swift in Sources */,
+				56E971972A76EDAA00ADE9C7 /* MainButtonView.swift in Sources */,
+				56E971992A76F49600ADE9C7 /* TopNavigationView.swift in Sources */,
 				56652F9A2A714DE400636C15 /* BochechudoNano1App.swift in Sources */,
+				563E835D2A7424EF005B72B5 /* ChoiceCardView2.swift in Sources */,
+				56652FAA2A71517D00636C15 /* ChoiceCardView.swift in Sources */,
+				563E835F2A743FE9005B72B5 /* MenuView.swift in Sources */,
+				563E834C2A728E50005B72B5 /* Model.swift in Sources */,
+				563E834F2A729459005B72B5 /* CornerRadiusStyle.swift in Sources */,
+				563E83632A757AED005B72B5 /* Level.swift in Sources */,
+				56652FB72A71939200636C15 /* LevelView.swift in Sources */,
+				56652FB52A71633700636C15 /* InstructionsCardView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -261,6 +459,7 @@
 		};
 		56652FA52A714DE600636C15 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 7749AB39CE9E008E56D01BF9 /* Pods-BochechudoNano1.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -270,6 +469,7 @@
 				DEVELOPMENT_TEAM = TYTWY4K8N3;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = BochechudoNano1/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -290,6 +490,7 @@
 		};
 		56652FA62A714DE600636C15 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = FC84053CEF40F9D4A7BC51D8 /* Pods-BochechudoNano1.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -299,6 +500,7 @@
 				DEVELOPMENT_TEAM = TYTWY4K8N3;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = BochechudoNano1/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
